@@ -1,0 +1,35 @@
+.id1 { margin: auto;
+    color: aqua;
+
+}
+.class1{
+
+}
+.h1{
+   font-weight: 300;
+   color: hsl(210, 74%, 48%);
+   width: 222px;
+   height: 50px;
+    
+
+}
+.p1{
+    text-align: end;
+    text-align: left;
+    color: blueviolet;
+}
+.look{
+    color: brown;
+    stroke-width: 50cm;
+}
+
+
+.flexbox-item-1{
+    border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+    
+}
